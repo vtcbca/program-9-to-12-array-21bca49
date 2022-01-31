@@ -26,7 +26,7 @@ void main()
 
 
     }
-    printf("\nShorted Array:");
+    printf("\nSorted Array:");
     printf("\n==============");
     for(i=0; i<n; i++)
     {
