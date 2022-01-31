@@ -23,7 +23,7 @@ void main()
             arr[a] = swap;
         }
     }
-    printf("\n The Selection short is ");
+    printf("\n The Selection sort is ");
     printf("\n==========================");
     for (i = 0; i < n; i++)
         printf("\n\t%d", arr[i]);
